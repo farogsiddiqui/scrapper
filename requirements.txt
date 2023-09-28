@@ -1,0 +1,11 @@
+beautifulsoup4
+bs4
+Flask
+Flask-Cors
+gunicorn
+Jinja2
+MarkupSafe
+requests
+soupsieve
+urllib3
+pymongo
